@@ -22,32 +22,32 @@ Your task is to examine the organization’s data in their employees and log_in_
 
 <p align="center">
 1. Retrieve after hours failed login attempts <br/>
-<img src="https://imgur.com/1cEGunm.png" height="80%" width="80%"/>
+<img src="https://imgur.com/izR4vJX.png" height="80%" width="80%"/>
 <br />
 <br />
 2. Retrieve login attempts on specific dates <br/>
-<img src="https://imgur.com/1cEGunm.png" height="80%" width="80%"/>
+<img src="https://imgur.com/jNuTAd3.png" height="80%" width="80%"/>
 <br />
 <br />
 3. Retrieve login attempts outside of Mexico <br/>
-<img src="https://imgur.com/1cEGunm.png" height="80%" width="80%"/>
+<img src="https://imgur.com/l7lVm8B.png" height="80%" width="80%"/>
 <br />
 <br />
 4. Retrieve employees in Marketing <br/>
-<img src="https://imgur.com/1cEGunm.png" height="80%" width="80%"/>
+<img src="https://imgur.com/fk72E1u.png" height="80%" width="80%"/>
 <br />
 <br />
 5. Retrieve employees in Finance or Sales <br/>
-<img src="https://imgur.com/1cEGunm.png" height="80%" width="80%"/>
+<img src="https://imgur.com/UUiaxwW.png" height="80%" width="80%"/>
 <br />
 <br />
 6. Retrieve all employees not in IT <br/>
-<img src="https://imgur.com/1cEGunm.png" height="80%" width="80%"/>
+<img src="https://imgur.com/1ihCVfJ.png" height="80%" width="80%"/>
 <br />
 <br />
 7. Finalize your document by adding a Projection description and Summary  <br/>
-<img src="https://imgur.com/YFLQx7R.png" height="80%" width="80%"/>
-<img src="https://imgur.com/5EscinF.png" height="80%" width="80%"/>
+<img src="https://imgur.com/EQVitW3.png" height="80%" width="80%"/>
+<img src="https://imgur.com/7ks5e9W.png" height="80%" width="80%"/>
 <br />
 <br />
 
