@@ -1,6 +1,6 @@
 <h1>Apply filters to SQL queries</h1>
 
-### [YouTube Demonstration (work in progress)](https://youtu.be/URL)
+### [YouTube Demonstration](https://youtu.be/Yqom7tpfE8U)
 
 
 <h2>Description</h2>
