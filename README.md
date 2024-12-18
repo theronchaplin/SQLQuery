@@ -1,8 +1,5 @@
 <h1>Apply filters to SQL queries</h1>
 
-### [YouTube Demonstration](https://youtu.be/Yqom7tpfE8U)
-
-
 <h2>Description</h2>
 
 <p><em>This scenario was completed during the Google Cybersecurity Certificate Program:</em></p>
